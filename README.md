@@ -20,8 +20,8 @@ Compiler design programs for various tasks including lexical analysis, parsing, 
 | Program10.c  | Computes FIRST sets for each non-terminal in a grammar. | [Lab-Programs/Program10.c](Lab-Programs/Program10.c)  |
 | Program11.l  | Counts the number of words and lines in a given file or program. | [Lab-Programs/Program11.l](Lab-Programs/Program11.l)  |
 | Program12.y  | Yacc calculator that evaluates arithmetic expressions with addition and multiplication (includes built-in yylex function). | [Lab-Programs/Program12.y](Lab-Programs/Program12.y)  |
-| Program13    | Yacc calculator with separate Lex file (Program13.l and Program13.y) for evaluating arithmetic expressions with addition and multiplication. | [Lab-Programs/Program13/](Lab-Programs/Program13/)  |
-| Program14    | YACC top-down parser with Lex file (Program14.l and Program14.y) for validating arithmetic expressions using grammar after eliminating left recursion. | [Lab-Programs/Program14/](Lab-Programs/Program14/)  |
+| Program13    | Yacc calculator with separate Lex file (Program13.l and Program13.y) for evaluating arithmetic expressions with addition and multiplication. | [Lab-Programs/Program13/](https://github.com/Jashvanth21/Compiler_Design/tree/main/Program13)  |
+| Program14    | YACC top-down parser with Lex file (Program14.l and Program14.y) for validating arithmetic expressions using grammar after eliminating left recursion. | [Lab-Programs/Program14/](https://github.com/Jashvanth21/Compiler_Design/tree/main/Program14)  |
 | Program15.c  | Lexical analyzer implementation in C that reads from a file and identifies keywords, identifiers, operators, and numbers. | [Lab-Programs/Program15.c](Lab-Programs/Program15.c)  |
 | Program16.c  | Computes FOLLOW sets for non-terminals in a grammar. The FOLLOW set contains terminal symbols that can appear immediately after a non-terminal. | [Lab-Programs/Program16.c](Lab-Programs/Program16.c)  |
 | Program17.c  | Implements stack allocation strategy for compilers, simulating activation record stack management for function calls and returns. | [Lab-Programs/Program17.c](Lab-Programs/Program17.c)  |
