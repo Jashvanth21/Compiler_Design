@@ -24,13 +24,4 @@ Compiler design programs for various tasks including lexical analysis, parsing, 
 | Program14    | YACC top-down parser with Lex file (Program14.l and Program14.y) for validating arithmetic expressions using grammar after eliminating left recursion. | [Lab-Programs/Program14/](https://github.com/Jashvanth21/Compiler_Design/tree/main/Program14)  |
 | Program15.c  | Lexical analyzer implementation in C that reads from a file and identifies keywords, identifiers, operators, and numbers. | [Lab-Programs/Program15.c](https://github.com/Jashvanth21/Compiler_Design/blob/main/Program15.c)  |
 | Program16.c  | Computes FOLLOW sets for non-terminals in a grammar. The FOLLOW set contains terminal symbols that can appear immediately after a non-terminal. | [Lab-Programs/Program16.c](https://github.com/Jashvanth21/Compiler_Design/blob/main/Program16.c)  |
-| Program17.c  | Implements stack allocation strategy for compilers, simulating activation record stack management for function calls and returns. | [Lab-Programs/Program17.c](Lab-Programs/Program17.c)  |
-
-## 2. Assignment-Programs
-
-Additional Lex programs for assignments.
-
-| Program Name | Description | Link |
-|--------------|-------------|------|
-| Program1.l   | Assignment program for identifier recognition. | [Assignment-Programs/Program1.l](Assignment-Programs/Program1.l) |
-| Program2.l   | Assignment program for recognizing various representations of real numbers in programming languages. | [Assignment-Programs/Program2.l](Assignment-Programs/Program2.l) |
+| Program17.c  | Implements stack allocation strategy for compilers, simulating activation record stack management for function calls and returns. | [Lab-Programs/Program17.c](https://github.com/Jashvanth21/Compiler_Design/blob/main/Program17.c)  |
